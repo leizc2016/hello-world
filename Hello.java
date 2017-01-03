@@ -7,5 +7,3 @@ public class Hello{
 		}
 	
 	}
-xx
-xxxxxxxxx
